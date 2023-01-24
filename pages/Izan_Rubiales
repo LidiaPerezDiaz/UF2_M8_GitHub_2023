@@ -19,7 +19,9 @@
         </div>
         <div class="texto1">
                 <h3>Git clone - Curs 2022/2023</h3>
-                <p>El git clone sirve para replicar un repositorio dentro de otro </p>
+                <p>El git clone sirve para replicar un repositorio dentro de otro.
+                    Revisado por Edward
+                </p>
         </div>
     </div>
     <footer id="main-footer">
